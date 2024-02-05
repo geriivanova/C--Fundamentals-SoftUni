@@ -1,1 +1,1 @@
-# C--Fundamentals-SoftUni
+# CSharp-Fundamentals-SoftUni
